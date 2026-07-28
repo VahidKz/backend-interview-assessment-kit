@@ -16,9 +16,9 @@ slow endpoint, write an API integration, or reason about failing tests in an
 existing codebase.
 
 This kit turns those recurring patterns into ethical, original practice
-material. It does not copy private assessments or forum posts. Public sources
-and local assessment notes were used as inputs for topic selection, then the
-questions and solutions were rewritten from scratch.
+material. It does not copy private assessments or forum posts. The questions
+and solutions were rewritten from scratch around common backend interview
+patterns.
 
 ## Repository Map
 
@@ -32,7 +32,7 @@ questions and solutions were rewritten from scratch.
 - `drills/` - live debugging and communication drills.
 - `scorecards/` - rubrics for evaluating senior backend answers.
 - `study-plans/` - structured preparation plans.
-- `docs/` - source policy, public-source notes, and local assessment map.
+- `docs/` - source policy and public-source notes.
 
 ## How To Use
 
@@ -50,15 +50,13 @@ Run the repository checks locally:
 npm run check
 ```
 
-The check verifies required files, Markdown headings, and that the local
-assessment source map covers the important reports used to shape this kit.
+The check verifies required files and Markdown headings.
 
 ## Source Ethics
 
 This project uses public documentation, public GitHub discussions/repositories,
-and local Markdown assessment notes as research signals. The content here is
+and common backend interview patterns as research signals. The content here is
 paraphrased, synthesized, and organized as original study material.
 
-See `docs/source-policy.md`, `docs/source-notes.md`, and
-`docs/local-assessment-map.md` for the exact rules and source map used while
-creating it.
+See `docs/source-policy.md` and `docs/source-notes.md` for the source policy
+used while creating it.

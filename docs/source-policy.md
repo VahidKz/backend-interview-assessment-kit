@@ -32,13 +32,12 @@ outlines, acceptance tests, and senior-level discussion notes.
 ## Copyright-Safe Use
 
 When a source is a public forum, GitHub repository, or article, this kit does
-not reproduce its original wording or code. Instead, it records the topic signal
-in `docs/source-notes.md` and creates new learning material in the tracks and
-exercises.
+not reproduce its original wording or code. Instead, it records high-level topic
+signals in `docs/source-notes.md` and creates new learning material in the
+tracks and exercises.
 
 ## Candidate Integrity
 
 Use this kit to practice thinking, debugging, and communicating. Do not present
 any solution as a completed employer assignment unless you wrote it yourself for
 that assessment and are allowed to share it.
-

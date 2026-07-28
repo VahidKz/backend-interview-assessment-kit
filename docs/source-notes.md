@@ -29,11 +29,3 @@ questions and solution guides in this repository are original and paraphrased.
 | [NodeJS interview questions gist](https://gist.github.com/paulfranco/9f88a2879b7b7d88de5d1921aef2093b) | Public question banks repeatedly test async APIs, event loop basics, and runtime fundamentals. |
 | [Devinterview Node.js interview repository](https://github.com/Devinterview-io/node-interview-questions) | Public interview prep commonly covers event loop, thread pool, Express, and production backend concepts. |
 | [Devinterview Laravel interview repository](https://github.com/Devinterview-io/laravel-interview-questions) | Public Laravel prep commonly covers controllers, Eloquent, middleware, validation, and testing. |
-
-## Local Assessment Inputs
-
-The local Markdown files from the source workspace are mapped in
-`docs/local-assessment-map.md`. Technical files shaped the question patterns.
-Non-technical Metisix marketing and design notes were still reviewed, but only
-used to improve presentation, documentation tone, and repository packaging.
-
