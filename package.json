@@ -1,0 +1,24 @@
+{
+  "name": "backend-interview-assessment-kit",
+  "version": "1.0.0",
+  "private": false,
+  "description": "Original Laravel and Node.js backend interview prep kit with question banks, assessment drills, solutions, and senior-level rubrics.",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "check": "node scripts/validate-repo.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "keywords": [
+    "interview-prep",
+    "backend",
+    "nodejs",
+    "laravel",
+    "php",
+    "system-design",
+    "technical-interview"
+  ]
+}
+
