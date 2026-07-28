@@ -32,7 +32,7 @@ questions and solutions were rewritten from scratch.
 - `drills/` - live debugging and communication drills.
 - `scorecards/` - rubrics for evaluating senior backend answers.
 - `study-plans/` - structured preparation plans.
-- `docs/` - source policy, assessment map, and research notes.
+- `docs/` - source policy, public-source notes, and local assessment map.
 
 ## How To Use
 
@@ -59,5 +59,6 @@ This project uses public documentation, public GitHub discussions/repositories,
 and local Markdown assessment notes as research signals. The content here is
 paraphrased, synthesized, and organized as original study material.
 
-See `docs/source-policy.md` for the exact rules used while creating it.
-
+See `docs/source-policy.md`, `docs/source-notes.md`, and
+`docs/local-assessment-map.md` for the exact rules and source map used while
+creating it.
